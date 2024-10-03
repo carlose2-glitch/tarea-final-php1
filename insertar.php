@@ -15,6 +15,11 @@
     <tr class="flex justify-center">
         <th>Registrar Mascota</th>
     </tr>
+
+        <tr class="flex justify-between p-[0.5rem]">
+            <td>Cedula canina:</td>
+            <td><input type="number" name="id_mascota" class="outline-none rounded-md"></td>
+        </tr>
         
         <tr class="flex justify-between p-[0.5rem]">
             <td>Nombre de la Mascota :</td>

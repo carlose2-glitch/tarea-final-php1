@@ -15,7 +15,7 @@
 
 <a href="./insertar.php" class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Insertar</a>
 
-<a class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Consultar</a>
+<a href="./consultar.php" class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Consultar</a>
 
 <a class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Modificar</a>
 
