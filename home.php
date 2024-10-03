@@ -19,7 +19,7 @@
 
 <a href="./modificar.php" class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Modificar/Eliminar</a>
 
-<a class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Buscar</a>
+<a href="./search.php" class="cursor-pointer transition hover:scale-110 duration-500 rounded-md p-4 bg-green-300 text-green-100 font-bold">Buscar</a>
 
 
 

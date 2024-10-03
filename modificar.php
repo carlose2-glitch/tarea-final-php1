@@ -40,7 +40,7 @@ include ("conexion.php");
             <td class="border border-green-700 bg-green-300"><?php print $ver[5]; ?></td>
             <td class="border border-green-700 bg-green-300"><?php print $ver[6]; ?></td>
             <td class="border border-green-700 bg-green-300 text-red-600"><a href="modificar2.php?mod=<?php print $ver[0] ?>">Modificar</a></td>
-            <td class="border border-green-700 bg-green-300 text-red-700"><a href="eliminar.php?mod=<?php print $ver[0] ?>">Eliminar</a></td>
+            <td class="border border-green-700 bg-green-300 text-red-700"><a href="eliminar.php?eli=<?php print $ver[0] ?>">Eliminar</a></td>
             
         </tr> <?php }?>
         </tbody>
